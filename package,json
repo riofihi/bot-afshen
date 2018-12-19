@@ -1,0 +1,14 @@
+{
+  "name": "botafshen",
+  "version": "1.0.0",
+  "description": "glory glory team hallow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "botafshen#6071",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
